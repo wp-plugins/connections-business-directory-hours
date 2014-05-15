@@ -24,6 +24,12 @@ The business hours can also be optionally shown within the entry card in both th
 
 [Checkout the screenshots and video of this plugin in action.](http://connections-pro.com/add-on/hours/)
 
+Here are other great extensions that enhance your expirence with the Connections Business Directory:
+
+* [Business Hours](http://wordpress.org/plugins/connections-business-directory-hours/)
+* [Income Levels](http://wordpress.org/plugins/connections-business-directory-income-levels/)
+* [Education Level](http://wordpress.org/plugins/connections-business-directory-education-levels/)
+
 == Installation ==
 
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
