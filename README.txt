@@ -26,7 +26,7 @@ The business hours can also be optionally shown within the entry card in both th
 
 Here are other great extensions that enhance your expirence with the Connections Business Directory:
 
-* [Business Hours](http://wordpress.org/plugins/connections-business-directory-hours/)
+* [Toolbar](http://wordpress.org/plugins/connections-toolbar/)
 * [Income Levels](http://wordpress.org/plugins/connections-business-directory-income-levels/)
 * [Education Level](http://wordpress.org/plugins/connections-business-directory-education-levels/)
 
