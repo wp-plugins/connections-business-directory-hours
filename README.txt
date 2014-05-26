@@ -8,7 +8,7 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds the ability to add hours hours to an entry.
+Extension for the Connections Business Directory that adds the ability to add business hours to an entry.
 
 == Description ==
 
