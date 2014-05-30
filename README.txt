@@ -36,7 +36,7 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 == Frequently Asked Questions ==
 
-None yet....
+None yet...
 
 == Screenshots ==
 
