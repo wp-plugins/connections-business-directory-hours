@@ -46,7 +46,7 @@ None yet....
 
 == Changelog ==
 
-= 1.0.4 07/14/2014 =
+= 1.0.5 07/14/2014 =
 * TWEAK: If no open hours have been set for any day or any periods within a day, do not show the open hours content block.
 
 = 1.0.3 06/05/2014 =
